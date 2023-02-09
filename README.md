@@ -22,3 +22,6 @@ Make your changes and commits, since this is a new local branch, if you want it 
     git push --set-upstream origin mayank/newbranch 
 
 This would push the branch to github repository bro and will do your thing for sure
+    git log --oneline --all --graph
+
+Use the above command for visualising it properly
